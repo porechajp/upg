@@ -28,3 +28,8 @@ foreach (var record in data)
 }
 
 ```
+
+# About
+
+![Jatan Porecha](assets/jatan-photo-removebg.png)
+I am an experienced engineer always looking for some challenging and satisfying work !
